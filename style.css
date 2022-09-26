@@ -1,0 +1,75 @@
+body{
+  background-image: url("images/Darwn.JPG");
+margin: 0;
+padding: 0;
+background-size: 3000px;
+background-color: #D7D7D7
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+
+header{
+  text-align: left;
+}
+
+nav{
+background:rgba(0,0,0,0,3);
+}
+
+
+ul{
+  list-style-type: none;
+  margin:10px;
+  padding:10px;
+  overflow:hidden;
+  background-color: #B1CEE4;
+}
+li{
+  float: left;
+  display: block;
+color: black;
+}
+
+li a{
+  display:block;
+  color:black;
+  text-align:justify;
+  padding:14px 16px;
+  text-decoration:none;
+}
+li a:hover:not(.active){
+  background-color: white;
+}
+
+
+h1{
+  text-align: center;
+margin: 30px;
+  font-family: "Audiowide", sans-serif;
+}
+
+h2{
+  text-align: left;
+margin: 50px;
+}
+h3{
+  display: flex;
+
+margin:30px;}
+
+p{
+  width: 1500px;
+  display:block;
+  color:black;
+  margin:40px;
+}
+
+
+img{
+  float:left;
+  margin: 20px 40px;
+}
+details{
+  margin: 50px;
+}
