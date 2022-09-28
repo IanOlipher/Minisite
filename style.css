@@ -1,5 +1,6 @@
 body{
   background-image: url("images/Darwn.JPG");
+  background-attachment:fixed;
 margin: 0;
 padding: 0;
 background-size: 3000px;
